@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "./wedding-invitation/v2/static/css/main.737b34df.css",
-    "main.js": "./wedding-invitation/v2/static/js/main.2d0a133f.js",
-    "static/js/787.9b74c651.chunk.js": "./wedding-invitation/v2/static/js/787.9b74c651.chunk.js",
-    "static/media/Photo_4.jpg": "./wedding-invitation/v2/static/media/Photo_4.09b2ba44dfe574db7093.jpg",
-    "static/media/Photo_5.jpg": "./wedding-invitation/v2/static/media/Photo_5.91b8aa8cf16ca7e7760b.jpg",
-    "static/media/Photo_1.jpg": "./wedding-invitation/v2/static/media/Photo_1.9a46014fec9036f53741.jpg",
-    "static/media/Photo_6.jpg": "./wedding-invitation/v2/static/media/Photo_6.e3cd48b3646c407af8b0.jpg",
-    "static/media/Photo_8.jpg": "./wedding-invitation/v2/static/media/Photo_8.bf3b106b54cd0c03b022.jpg",
-    "static/media/Photo_9.jpg": "./wedding-invitation/v2/static/media/Photo_9.786e1c4ba0e1cb9599b2.jpg",
-    "static/media/Photo_3.jpg": "./wedding-invitation/v2/static/media/Photo_3.5f8e2a1431935f963bd7.jpg",
-    "static/media/Photo_10.jpg": "./wedding-invitation/v2/static/media/Photo_10.4b71681d8e48fd1b91c3.jpg",
-    "static/media/Photo_11.jpg": "./wedding-invitation/v2/static/media/Photo_11.363364e4cbb89a2709a2.jpg",
-    "static/media/Title.jpg": "./wedding-invitation/v2/static/media/Title.56c52c702357c0ef39ce.jpg",
-    "static/media/Photo_7.jpg": "./wedding-invitation/v2/static/media/Photo_7.3ddbda4ca139d3e67c50.jpg",
-    "static/media/Photo_12.jpg": "./wedding-invitation/v2/static/media/Photo_12.d0200c6584fa9de7dc5e.jpg",
-    "static/media/Photo_2.jpg": "./wedding-invitation/v2/static/media/Photo_2.5fcd84f1054b501e028a.jpg",
-    "static/media/LocationMap.png": "./wedding-invitation/v2/static/media/LocationMap.996c935dacc8dd081180.png",
-    "index.html": "./wedding-invitation/v2/index.html",
-    "main.737b34df.css.map": "./wedding-invitation/v2/static/css/main.737b34df.css.map",
-    "main.2d0a133f.js.map": "./wedding-invitation/v2/static/js/main.2d0a133f.js.map",
-    "787.9b74c651.chunk.js.map": "./wedding-invitation/v2/static/js/787.9b74c651.chunk.js.map"
+    "main.css": "/wedding-invitation/v2/static/css/main.737b34df.css",
+    "main.js": "/wedding-invitation/v2/static/js/main.c6831376.js",
+    "static/js/787.9b74c651.chunk.js": "/wedding-invitation/v2/static/js/787.9b74c651.chunk.js",
+    "static/media/Photo_4.jpg": "/wedding-invitation/v2/static/media/Photo_4.09b2ba44dfe574db7093.jpg",
+    "static/media/Photo_5.jpg": "/wedding-invitation/v2/static/media/Photo_5.91b8aa8cf16ca7e7760b.jpg",
+    "static/media/Photo_1.jpg": "/wedding-invitation/v2/static/media/Photo_1.9a46014fec9036f53741.jpg",
+    "static/media/Photo_6.jpg": "/wedding-invitation/v2/static/media/Photo_6.e3cd48b3646c407af8b0.jpg",
+    "static/media/Photo_8.jpg": "/wedding-invitation/v2/static/media/Photo_8.bf3b106b54cd0c03b022.jpg",
+    "static/media/Photo_9.jpg": "/wedding-invitation/v2/static/media/Photo_9.786e1c4ba0e1cb9599b2.jpg",
+    "static/media/Photo_3.jpg": "/wedding-invitation/v2/static/media/Photo_3.5f8e2a1431935f963bd7.jpg",
+    "static/media/Photo_10.jpg": "/wedding-invitation/v2/static/media/Photo_10.4b71681d8e48fd1b91c3.jpg",
+    "static/media/Photo_11.jpg": "/wedding-invitation/v2/static/media/Photo_11.363364e4cbb89a2709a2.jpg",
+    "static/media/Title.jpg": "/wedding-invitation/v2/static/media/Title.56c52c702357c0ef39ce.jpg",
+    "static/media/Photo_7.jpg": "/wedding-invitation/v2/static/media/Photo_7.3ddbda4ca139d3e67c50.jpg",
+    "static/media/Photo_12.jpg": "/wedding-invitation/v2/static/media/Photo_12.d0200c6584fa9de7dc5e.jpg",
+    "static/media/Photo_2.jpg": "/wedding-invitation/v2/static/media/Photo_2.5fcd84f1054b501e028a.jpg",
+    "static/media/LocationMap.png": "/wedding-invitation/v2/static/media/LocationMap.996c935dacc8dd081180.png",
+    "index.html": "/wedding-invitation/v2/index.html",
+    "main.737b34df.css.map": "/wedding-invitation/v2/static/css/main.737b34df.css.map",
+    "main.c6831376.js.map": "/wedding-invitation/v2/static/js/main.c6831376.js.map",
+    "787.9b74c651.chunk.js.map": "/wedding-invitation/v2/static/js/787.9b74c651.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.737b34df.css",
-    "static/js/main.2d0a133f.js"
+    "static/js/main.c6831376.js"
   ]
 }
